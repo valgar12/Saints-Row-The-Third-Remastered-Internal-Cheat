@@ -84,3 +84,5 @@ It’s very likely that there isn’t an array of bones with their positions sto
 - Show FPS  
 - Show crosshair  
 - Show mouse  
+- Teleport to waypoint (F1)
+- Teleport NPCs to you (F3)
