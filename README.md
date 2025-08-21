@@ -8,6 +8,9 @@ CREDITS:
 Kiero hook: https://github.com/rdbo/ImGui-DirectX-11-Kiero-Hook
 MinHook: https://github.com/TsudaKageyu/minhook
 
+HOW TO USE:
+Just inject the Debug or Release dll into the game with any injector, i use process hacker. The game must be windowed or borderless.
+
 FEATURES:
 
 -ESP
