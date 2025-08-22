@@ -2,6 +2,8 @@
 
 An internal cheat for the game **Saints Row The Third Remastered**.
 
+My discord: **valgar1**
+
 ##  SHOWCASE
 Here’s a video demonstration of the cheat in action:
 
